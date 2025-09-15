@@ -1,3 +1,4 @@
+// create new folder -> nxp create-react-app (folder/app name)
 // for Everytime run the code:
 // cd (folder name) -> npm start
 
